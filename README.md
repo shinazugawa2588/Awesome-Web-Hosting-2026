@@ -53,6 +53,7 @@
 | **[GitHub Pages](https://pages.github.com/)** | ✅ **Unlimited** | Free | Documentation | Push to `gh-pages` |
 | **[Surge](https://surge.sh/)** | ✅ **Unlimited** | $30/mo | Simple HTML | CLI Command |
 | **[Render](https://render.com/)** | ✅ **Unlimited** | $7/mo | Static Assets | Auto-deploy from Git |
+| **[AWS Amplify](https://aws.amazon.com/amplify/pricing/)** | ✅ **1000 Build Mins** | Pay-as-you-go | Full-stack AWS | Git & Pull Requests |
 
 </div>
 <br>
@@ -106,6 +107,7 @@
 | **[Supabase](https://supabase.com/)** | **PostgreSQL** | 500 MB | Open-source Firebase alternative |
 | **[Back4App](https://www.back4app.com/)** | **BaaS** | 250 MB | Low-code Backend (Parse) |
 | **[MongoDB Atlas](https://www.mongodb.com/atlas)** | **NoSQL** | 512 MB | Automated backups, easy scaling |
+| **[AWS DynamoDB](https://aws.amazon.com/dynamodb/pricing/)** | **NoSQL** | 25 GB | Always Free, Single-digit millisecond latency |
 | **[PlanetScale](https://planetscale.com/)** | **MySQL** | 5 GB | Git-like branching for databases |
 | **[Neon](https://neon.tech/)** | **PostgreSQL** | 500 MB | Serverless, compute auto-scaling |
 | **[Turso](https://turso.tech/)** | **SQLite** | 9 GB | Edge-hosted, incredibly fast |
