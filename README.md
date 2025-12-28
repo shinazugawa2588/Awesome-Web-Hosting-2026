@@ -66,6 +66,7 @@
 
 | Service | Free Tier | Sleep Policy | Key Feature |
 |:---:|:---:|:---:|:---|
+| **[Google Cloud Run](https://cloud.google.com/run/pricing)** | ✅ **2M Requests/mo** | Scales to 0 | Serverless Docker "cheat code" |
 | **[Zeabur](https://zeabur.com/)** | ✅ **$5 Credit/mo** | No | **Top Pick 2026** (No CC req) |
 | **[Render](https://render.com/)** | ✅ **750 Hrs/mo** | Yes (15m) | Easy deploy, huge limits |
 | **[Koyeb](https://www.koyeb.com/)** | ✅ **Free Nano Instance** | No | Global Edge deployment |
