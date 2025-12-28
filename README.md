@@ -124,6 +124,7 @@
 
 | Service | Free Hardware | Best Use Case |
 |:---:|:---:|:---|
+| **[Streamlit Cloud](https://streamlit.io/)** | ✅ **Unlimited Apps** | Data Science Dashboards |
 | **[Hugging Face Spaces](https://huggingface.co/spaces)** | ✅ **2 vCPU** | Hosting Gradio/Streamlit Demos |
 | **[Google Colab](https://colab.research.google.com/)** | ✅ **T4 GPU** | Training models, Jupyter Notebooks |
 | **[Kaggle Kernels](https://www.kaggle.com/code)** | ✅ **P100 GPU** | Data Science competitions & practice |
