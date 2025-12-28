@@ -13,7 +13,15 @@
 ## **The Definitive Guide to Free Cloud Infrastructure**
 
 > **Stop paying for side projects.** <br>
-> A curated, verified list of **100+ free tier platforms** for Developers, Startups, and Students.
+> A curated, verified list of **100+ free tier platforms** for Developers, Startups, and Students in 2026.
+> <br><br>
+> **Compare Free vs Paid plans for:**
+> <br>
+> ⚛️ **Static Sites** (Vercel, Netlify) &nbsp;•&nbsp; 🐳 **Docker & Node.js** (Render, Railway, Fly.io)
+> <br>
+> 🗄️ **Databases** (Supabase, MongoDB) &nbsp;•&nbsp; ☁️ **VPS & Cloud** (Oracle, AWS, Google)
+
+<br>
 
 | ⚡ **Fast Deploy** | 🤖 **AI Ready** | 🛡️ **Secure** |
 | :---: | :---: | :---: |
