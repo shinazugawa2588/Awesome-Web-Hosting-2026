@@ -97,7 +97,7 @@
 
 | Service | Free Allowance | Runtime Support | Unique Feature | Best For |
 |:---:|:---:|:---|:---|:---|
-| **[Cloudflare Workers](https://workers.cloudflare.com/)** | ✅ **100k Req/day** | JS, Rust, Wasm | 0ms cold start, global edge | High-perf APIs & proxies |
+| **[Cloudflare Workers](https://workers.cloudflare.com/)** | ✅ **100k / day** | JS, Rust, Wasm | 0ms Cold Start, Global Network | High-traffic APIs|
 | **[AWS Lambda](https://aws.amazon.com/lambda/)** | ✅ **1M Req/mo** | Python, Node, Go, Java, C# | Industry standard serverless | Production backends |
 | **[Deno Deploy](https://deno.com/deploy)** | ✅ **100k Req/day** | TypeScript, JS | Native TS, no config | Modern TS/JS APIs |
 | **[Vercel Functions](https://vercel.com/docs/functions)** | ✅ **100GB-Hrs** | Node, Go, Python | Integrated with frontend | Next.js full-stack apps |
