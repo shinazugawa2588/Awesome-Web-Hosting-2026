@@ -129,6 +129,21 @@
 </div>
 <br>
 
+## 📦 Object Storage / Blob
+
+*Ideal for: file uploads, images, backups, static assets. Not a relational database.*
+
+<div align="center">
+
+| Service | Free Tier | Egress | Best For |
+|:---:|:---:|:---:|:---|
+| **[Cloudflare R2](https://developers.cloudflare.com/r2/)** | ✅ **10 GB storage** + **1M Class A** + **10M Class B ops/mo** | ✅ Free to Cloudflare services (Workers/Pages) | File/object storage for APIs & apps |
+| **[AWS S3](https://aws.amazon.com/s3/)** | ✅ **5 GB** (AWS Free Tier) | Standard S3 egress pricing | Classic object storage, S3 API standard |
+| **[Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html)** | ✅ **10 GB** | Low-cost egress | Cheap backups and media storage |
+
+</div>
+<br>
+
 <div id="ai-gpu"></div>
 
 ## 🤖 AI & GPU Hosting
