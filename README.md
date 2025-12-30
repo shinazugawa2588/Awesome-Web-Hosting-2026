@@ -124,7 +124,6 @@
 | **[Firebase Realtime DB](https://firebase.google.com/products/database)** | NoSQL | 1 GB | Real-time sync, 100 connections | Never |
 | **[DynamoDB](https://aws.amazon.com/dynamodb/)** | NoSQL | 25 GB | AWS “Always Free” tier | Never |
 | **[Planetscale](https://planetscale.com/)** | MySQL | 5 GB | Serverless MySQL with branching | Never |
-| **[Fauna](https://fauna.com/)** | Document/GraphQL | 5 GB | ACID, multi-region | Never |
 
 </div>
 <br>
